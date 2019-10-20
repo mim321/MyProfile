@@ -1,2 +1,2 @@
 <body bgcolor="yellow">
-<img src=https://mim321.github.com.io/MyProfile/321.jpg>
+<img src=https://mim321.github.com.io/MyProfile/321.jpg.io>
