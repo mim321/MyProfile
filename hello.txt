@@ -1,3 +1,0 @@
-hollo.htm
-<body bgcolor="yellow">
-<img src=http://mim321.github.io/MyProfile/321.jpg>
