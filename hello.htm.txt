@@ -1,2 +1,0 @@
-<body bgcolor="yellow">
-<img src=https://mim321.github.io/MyProfile/321.jpg>
