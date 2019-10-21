@@ -5,6 +5,6 @@
 
 [**##facebook**](https://www.facebook.com/mim.suchicha) 
 
-[**##hello.htm**](https://mim321.github.io/Myprofile/hello.htm?fbclid=IwAR2849xIUKhcYBrA6gVYzaUhja964jz_2GDTtucL-HXWaWso74bWAuOG1Jk) 
+[**##hello.htm**](https://mim321.github.io/Myprofile/hello.htm) 
 
 
